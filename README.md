@@ -81,7 +81,8 @@ Program for Endocers and Decoders  and verify its truth table in quartus using V
 Developed by: mahesh raj purohit
 RegisterNumber: 212222240058  
 */
-##Encoder
+
+###Encoder
 ```
 module Encoder(a,b,c,d0,d1,d2,d3,d4,d5,d6,d7);
 input d0,d1,d2,d3,d4,d5,d6,d7;
@@ -92,7 +93,7 @@ or(c,d1,d3,d5,d7);
 endmodule
 ```
 
-##Decoder
+###Decoder
 ```
 module Decoder(d0,d1,d2,d3,d4,d5,d6,d7,a,b,c);
 input a,b,c;
@@ -108,7 +109,7 @@ assign d7 = (a&b&c);
 endmodule
 ```
 ### OUTPUT:
-##ENCODER:
+###ENCODER:
 
 ### RTL LOGIC  
 
