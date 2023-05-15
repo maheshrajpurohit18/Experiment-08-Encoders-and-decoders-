@@ -123,13 +123,25 @@ endmodule
 
 ### TIMING DIGRAMS  
 
+<img width="356" alt="encoderwf" src="https://github.com/maheshrajpurohit18/Experiment-08-Encoders-and-decoders-/assets/118749665/6a4a8244-efeb-4c76-b88a-c24cc1db36d6">
 
 
 
 ### TRUTH TABLE 
+![171645891-e4f37212-36aa-40b9-88c3-7f48a221f15e](https://github.com/maheshrajpurohit18/Experiment-08-Encoders-and-decoders-/assets/118749665/0f719a90-2990-4771-b1f8-0448a20f94ed)
+
+### DECODER 
+### RTL LOGIC
+
+![decoderrtl](https://github.com/maheshrajpurohit18/Experiment-08-Encoders-and-decoders-/assets/118749665/5a50da8b-43ca-4922-bfd2-a03e587fb47f)
+
+### TIMING DIGRAMS
+<img width="1262" alt="decoderwf" src="https://github.com/maheshrajpurohit18/Experiment-08-Encoders-and-decoders-/assets/118749665/2bf9405f-0085-45f6-a0b0-4dca9b6e8f6e">
 
 
 
+### TRUTH TABLE
+![decodertt](https://github.com/maheshrajpurohit18/Experiment-08-Encoders-and-decoders-/assets/118749665/59ec7d15-5d83-435a-86ca-f8ae42f8566a)
 
 
 ### RESULTS 
