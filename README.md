@@ -112,7 +112,8 @@ endmodule
 ###ENCODER:
 
 ### RTL LOGIC  
-https://github.com/Aakash-suresh/Experiment-08-Encoders-and-decoders-/raw/main/encoderrtl.png
+
+![encoderrtl](https://github.com/maheshrajpurohit18/Experiment-08-Encoders-and-decoders-/assets/118749665/84f5e61e-526e-4ba7-8568-60349e6df3f8)
 
 
 
@@ -121,14 +122,12 @@ https://github.com/Aakash-suresh/Experiment-08-Encoders-and-decoders-/raw/main/e
 
 
 ### TIMING DIGRAMS  
-https://github.com/Aakash-suresh/Experiment-08-Encoders-and-decoders-/raw/main/encoderwf.png
 
 
 
 
 ### TRUTH TABLE 
 
-https://user-images.githubusercontent.com/93427086/171645891-e4f37212-36aa-40b9-88c3-7f48a221f15e.png
 
 
 
