@@ -112,7 +112,7 @@ endmodule
 ###ENCODER:
 
 ### RTL LOGIC  
-
+https://github.com/Aakash-suresh/Experiment-08-Encoders-and-decoders-/raw/main/encoderrtl.png
 
 
 
@@ -121,14 +121,14 @@ endmodule
 
 
 ### TIMING DIGRAMS  
-
+https://github.com/Aakash-suresh/Experiment-08-Encoders-and-decoders-/raw/main/encoderwf.png
 
 
 
 
 ### TRUTH TABLE 
 
-
+https://user-images.githubusercontent.com/93427086/171645891-e4f37212-36aa-40b9-88c3-7f48a221f15e.png
 
 
 
